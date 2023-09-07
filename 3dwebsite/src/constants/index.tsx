@@ -211,8 +211,22 @@ const experiences: Experience[] = [
 
 const testimonials: Testimonial[] = [
   {
-    testimonial: "I thought it was impossible...",
-    name: "Sara Lee",
+    testimonial: "İmkanız olduğunu düşünüyordum...",
+    name: "Zeynep Akbaş",
+    designation: "CFO",
+    company: "Acme Co",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
+  },
+  {
+    testimonial: "Harika bir deneyimdi...",
+    name: "Hatice çiler",
+    designation: "CFO",
+    company: "Acme Co",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
+  },
+  {
+    testimonial: "Vay canına...",
+    name: "Pınar güler",
     designation: "CFO",
     company: "Acme Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
